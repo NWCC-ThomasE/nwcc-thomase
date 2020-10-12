@@ -25,7 +25,7 @@ Knowledgable in:
 ## 💬 Contact Info
 Email: spicethings9@gmail.com
 
-Twitter: [@TheoShiningStar](https://twitter.com/TheoShiningStar)
+Twitter: [@_theostar_](https://twitter.com/TheoShiningStar)
 
 <!--
 **NWCC-ThomasE/nwcc-thomase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
