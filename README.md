@@ -1,4 +1,4 @@
-# ✨ NWCC-ThomasE ✨
+# ✨ theostar-mp3 ✨
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/NWCC-ThomasE/count.svg" />
