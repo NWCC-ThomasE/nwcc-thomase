@@ -4,6 +4,8 @@
   <img src="https://profile-counter.glitch.me/NWCC-ThomasE/count.svg" />
 </p>
 
+[![theostar-mp3's github stats](https://github-readme-stats.vercel.app/api?username=theostar-mp3)](https://github.com/theostar-mp3/github-readme-stats)
+
 ## 💬 Info
 Name: Theo Centari
 
