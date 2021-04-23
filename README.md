@@ -1,17 +1,17 @@
-# ✨ theostar-mp3 ✨
+# ✨ bash-theo ✨
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/NWCC-ThomasE/count.svg" />
+  <img src="https://profile-counter.glitch.me/bash-theo/count.svg" />
 </p>
 
-[![theostar-mp3's github stats](https://github-readme-stats.vercel.app/api?username=theostar-mp3)](https://github.com/theostar-mp3/github-readme-stats)
+[![bash-theo's github stats](https://github-readme-stats.vercel.app/api?username=bash-theo)](https://github.com/bash-theo/github-readme-stats)
 
 ## 💬 Info
-Name: Theo Centari
+Name: Bash Star
 
-Gender: Genderfluid Male
+Gender: Nonbinary
 
-Pronouns: **He/Him** / **They/Them**
+Pronouns: **They/Them**
 
 ## 💬 Current Work
 Learning:
@@ -27,20 +27,6 @@ Knowledgable in:
 ## 💬 Contact Info
 Email: spicethings9@gmail.com
 
-Twitter: [@\_theostar_](https://twitter.com/_theostar_)
+Twitter: [@bash_theo](https://twitter.com/bash_theo)
 
-<!--
-**NWCC-ThomasE/nwcc-thomase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+Instagram: [@bash_theo](https://instagram.com/bash_theo)
